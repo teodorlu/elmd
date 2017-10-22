@@ -1,0 +1,14 @@
+#!elmd.py
+# Task
+
+Fill out this file:
+
+& elmd src hello.elm
+
+or
+
+& elmd src hello.elm
+
+You should see something like [this](hello.elm.html).
+
+& elmd app hello.elm -- This line compiles the file into a HTML file that can be linked in.
